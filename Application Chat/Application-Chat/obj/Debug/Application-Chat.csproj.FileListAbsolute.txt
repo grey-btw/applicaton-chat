@@ -1,0 +1,1005 @@
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\source\repos\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\bin\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.register.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Room.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\lab3\client\Application-Chat\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Downloads\Application-Chat\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Buffers.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Memory.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Text.Json.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.ValueTuple.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Buffers.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Memory.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Text.Json.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.xx - Copy\Application-Chat\bin\Debug\System.ValueTuple.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.dll
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.xml
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.register.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Room.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\netstandard.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.AppContext.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Console.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Data.Common.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Compression.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Pipes.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Http.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Ping.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Requests.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Security.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Sockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ObjectModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.Reader.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.Writer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Claims.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Principal.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.SecureString.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Thread.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Timer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XPath.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Jil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Json.Net.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Jil.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe.config
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.exe
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Application-Chat.pdb
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\netstandard.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.AppContext.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Console.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Data.Common.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Compression.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.Pipes.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Http.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Ping.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Requests.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Security.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.Sockets.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ObjectModel.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.Reader.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Resources.Writer.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Claims.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.Principal.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Security.SecureString.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encoding.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Thread.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Timer.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XPath.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Jil.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Json.Net.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.dll
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Jil.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.pdb
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\Sigil.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Buffers.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Memory.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Text.Json.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\bin\Debug\System.ValueTuple.xml
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.exe.config
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.register.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Room.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.exe
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.pdb
+D:\LTM\Application-Chat- Version 2.0.1\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\netstandard.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.AppContext.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Console.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Data.Common.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Pipes.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Http.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Ping.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Requests.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Security.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Sockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ObjectModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Reader.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Writer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Claims.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Principal.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.SecureString.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Thread.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Timer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Json.Net.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.register.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Room.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\netstandard.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.AppContext.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Console.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Data.Common.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Pipes.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Http.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Ping.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Requests.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Security.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Sockets.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ObjectModel.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Reader.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Writer.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Claims.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Principal.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.SecureString.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Thread.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Timer.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Json.Net.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.dll
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.pdb
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.xml
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe.config
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Downloads\Application-Chat-Version-3.0.0\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Application-Chat.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\netstandard.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.AppContext.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Console.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Data.Common.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.Pipes.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Http.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Ping.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Requests.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Security.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.Sockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ObjectModel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Reader.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Resources.Writer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Claims.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.Principal.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Security.SecureString.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Thread.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Timer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Json.Net.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.dll
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Jil.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.pdb
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\Sigil.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Buffers.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Memory.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Text.Json.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\bin\Debug\System.ValueTuple.xml
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe.config
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.register.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Room.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.exe
+D:\Tailieu\UIT\LTMCB\Final\client\Application-Chat-Version-4.0.3\Application-Chat-Version-4.0.3\Application-Chat- Version 3.0.0\Application-Chat\obj\Debug\Application-Chat.pdb
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Application-Chat.exe.config
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Application-Chat.exe
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Application-Chat.pdb
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\netstandard.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.AppContext.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Collections.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Collections.Specialized.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ComponentModel.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Console.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Data.Common.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Globalization.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.Compression.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.FileSystem.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.Pipes.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Linq.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Linq.Expressions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Linq.Parallel.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Linq.Queryable.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Http.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.NameResolution.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Ping.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Requests.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Security.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.Sockets.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Net.WebSockets.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ObjectModel.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Reflection.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Resources.Reader.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Resources.Writer.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Handles.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Claims.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.Principal.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Security.SecureString.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Encoding.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Tasks.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Thread.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Timer.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.XDocument.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.XPath.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Guna.UI2.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Jil.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Json.Net.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Sigil.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Buffers.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Memory.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Json.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ValueTuple.dll
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Jil.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Sigil.pdb
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\Sigil.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Buffers.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Memory.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Text.Json.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\bin\Debug\System.ValueTuple.xml
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.csprojAssemblyReference.cache
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.exe.config
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.ChatForm.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.ClientForm.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.MyBubble.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.Profile.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.Properties.Resources.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.register.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.registerCustom.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.Room.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.Upload.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application_Chat.YourBubble.resources
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.csproj.GenerateResource.cache
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.csproj.CoreCompileInputs.cache
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.csproj.CopyComplete
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.exe
+C:\Users\trunl\Desktop\Application-Chat-Version-4.0.4\Application-Chat-Version-4.0.3\Application-Chat\obj\Debug\Application-Chat.pdb
